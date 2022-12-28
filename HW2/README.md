@@ -2,7 +2,7 @@
 NLP with deep learning 
 
 
-HW3 - Text Generation
+HW2 - Prompting with Language Models
 
 Documents included
 
